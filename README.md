@@ -33,8 +33,8 @@ The project uses the following Python libraries:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
-   cd house-price-prediction
+   git clone https://github.com/yh2mai/HousePriceRandomForestModel.git
+   cd HousePriceRandomForestModel
    ```
 
 2. Install dependencies:
